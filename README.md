@@ -3,9 +3,9 @@ This machine learning project focuses on detecting fraudulent credit card transa
 
 
 # Credit Card Fraud Dataset
-The dataset consists of 31 parameters. Due to confidentiality issues, 28 of the features are the result of the PCA transformation. “Time’ and “Amount” are the only aspects that were not modified with PCA.
+The dataset comprises 31 features, with 28 of them transformed using Principal Component Analysis (PCA) due to confidentiality constraints. The remaining two features, "Time" and "Amount," were not subjected to PCA.
 
-There are a total of 284,807 transactions with only 492 of them being fraud. So, the label distribution suffers from imbalance issues.
+The dataset contains a total of 284,807 transactions, of which only 492 are fraudulent. This results in a highly imbalanced class distribution, posing challenges for model training and evaluation.
 
 
 # Tools and Libraries used
