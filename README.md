@@ -11,12 +11,12 @@ The dataset contains a total of 284,807 transactions, of which only 492 are frau
 # Tools and Libraries used
 We use the following libraries and frameworks in credit card fraud detection project.
 
-Python – 3.x
-Numpy – 1.19.2
-Scikit-learn – 0.24.1
-Matplotlib – 3.3.4
-Imblearn – 0.8.0
-Collections, Itertools
+Python,
+Numpy,
+Scikit-learn,
+Matplotlib,
+Imblearn,
+Collections & Itertools
 
 # Steps to Develop Credit Card Fraud Classifier in Machine Learning
 Our approach to building the classifier is discussed in the steps:
